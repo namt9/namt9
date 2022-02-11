@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning UIT
+
+[![Anurag’s github stats](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namt9)
+
 <!--
 **namt9/namt9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+- My name is Nam, I'm 21 years old
 - 🌱 I’m currently learning UIT
 
 [![Anurag’s github stats](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/namt9)
